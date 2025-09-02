@@ -34,4 +34,4 @@ This project is a simple SQL-based system to manage student performance, includi
 
 ---
 
-Created by: *Your Name*
+Created by: khushi naruka
